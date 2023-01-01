@@ -149,7 +149,26 @@ section .sec-img
 /*---------------------------------------------st_login-------------------*/
 
 .log_img{
-  height: 555px;
+  height: 550px;
   background-image: url("logo.jpg");
   background-size: 1364px 650px;
+}
+
+.box1{
+  height: 300px;
+  width: 450px;
+  background-color: black;
+  margin: 70px auto;
+  opacity: .7;
+  color: white;
+  padding: 20px;
+}
+form .login{
+      margin: auto 70px;;
+}
+
+input
+{
+  height: 25px;
+  width:  300px;
 }
