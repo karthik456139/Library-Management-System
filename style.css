@@ -149,7 +149,7 @@ section .sec-img
 /*---------------------------------------------st_login-------------------*/
 
 .log_img{
-  height: 550px;
+  height: 555px;
   background-image: url("logo.jpg");
   background-size: 1364px 650px;
 }
