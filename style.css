@@ -139,8 +139,17 @@ nav li
 .logo h1{
   padding-left: 50px;
 }
-section
+section .sec-img
 {
+  height: 550px;
   background-image: url("background image1.jpg");
+  background-size: 1364px 650px;
+}
+
+/*---------------------------------------------st_login-------------------*/
+
+.log_img{
+  height: 550px;
+  background-image: url("logo.jpg");
   background-size: 1364px 650px;
 }
